@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋
+🔭 I'm currently working on **Filter** — an alignment scoring API 
+that measures whether AI training data is ethical at the origin layer, 
+not just technically clean. Built around the Intent Score framework.
 
-<!--
-**salemjohnston2-cmyk/salemjohnston2-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm currently learning **Python** and deepening my research in 
+AI alignment, specifically secondary misalignment — when AI systems 
+working exactly as designed cause more harm than systems that go rogue.
 
-Here are some ideas to get you started:
+👯 I'm looking to collaborate on **AI alignment research, safety 
+infrastructure, and tools that make AI development more accountable.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about **AI alignment, secondary misalignment, the Intent 
+Score framework, or building serious things from Nigeria.**
+
+📫 How to reach me: X — @sallyham18
+
+⚡ Fun fact: I published original alignment research and started a 
+startup in the same week as a final year CS student.
+
+## Published Research
+- The Filter — DOI: 10.17605/OSF.IO/NUVEF
+
+## Currently Building
+- github.com/filtrai
